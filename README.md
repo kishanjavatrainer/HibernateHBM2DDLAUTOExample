@@ -1,0 +1,1 @@
+# HibernateHBM2DDLAUTOExample
